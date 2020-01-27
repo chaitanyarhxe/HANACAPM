@@ -1,0 +1,14 @@
+{
+  "MFDATA_SCHEMEREL_SCHEMES": {
+    "target": {
+      "object": "SCHEMES",
+      "schema": "MFSCHEMA"
+    }
+  },
+  "MFDATA_SCHEMEREL_AMCS": {
+    "target": {
+      "object": "AMCS",
+      "schema": "MFSCHEMA"
+    }
+  }
+}

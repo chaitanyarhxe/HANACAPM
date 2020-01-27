@@ -1,0 +1,10 @@
+{
+	"mfschema_service": {
+		"object_owner": {
+			"roles": ["GRANT_REMOTE_SOURCES"]
+		},
+		"application_user": {
+			"roles": ["GRANT_REMOTE_SOURCES"]
+		}
+	}
+}
